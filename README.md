@@ -37,6 +37,7 @@ If you want a custom scraping or data dashboard solution, reach out on:
 📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/e3701732-9b83-4484-a8e2-debfc27046c7)
+![image](https://github.com/user-attachments/assets/5ec42f43-76ae-4140-9a0f-7adef9c64cb2)
 
 
 
