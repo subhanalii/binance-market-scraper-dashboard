@@ -11,9 +11,6 @@ A Flask-based real-time dashboard that scrapes data from Binance and displays:
 - Hot Coins 🔥
 - New Listings 🆕
 
-🌐 Live Demo (YouTube)
-Watch the full demo here:
-[![YouTube](https://img.shields.io/badge/Watch_on-YouTube-red?logo=youtube&style=for-the-badge)](https://youtu.be/jodY4W_1rNc)
 
 
 💼 Hire Me
